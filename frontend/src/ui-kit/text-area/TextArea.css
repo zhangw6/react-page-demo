@@ -1,0 +1,7 @@
+.textArea {
+    font-size: medium;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+

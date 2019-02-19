@@ -1,0 +1,17 @@
+:root {
+    --tab-border-width: 1px;
+}
+
+.page {
+    background-color: lightgray;
+    width: 80%;
+    text-align: center;
+    border: var(--tab-border-width) black solid;;
+    border-left:none;
+    padding: 0 1rem;
+
+}
+
+.pageParagraph {
+    text-align: left;
+}

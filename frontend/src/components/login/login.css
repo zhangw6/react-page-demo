@@ -1,0 +1,12 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+button {
+    width: 30em;
+    margin-top: 2em;
+    padding: 0.5em;
+    align-self: center;
+}

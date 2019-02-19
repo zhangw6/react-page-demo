@@ -1,0 +1,13 @@
+.textField {
+   font-size: medium;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+label {
+    color: #B4886B;
+    font-weight: bold;
+    width: 150px;
+    margin: 2em 2em;
+}
